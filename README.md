@@ -13,8 +13,9 @@ Scenario:
 Run the above cycle for another user.
 
 
-_____________________________Commands____________________________
-#To install selenium
+_____________________________Commands to Follow____________________________
+
+# To install selenium
 pip install -U selenium
 
 
