@@ -4,7 +4,7 @@ class Data:
     base_url = "http://automationpractice.com/index.php"
 
     # details of user1 for registration
-    userEmail1 = "ariful12334.123@gmail.com"
+    userEmail1 = "markstonis12334.123@gmail.com"
     firstName1 = "Mark"
     lastName1 = "Stonis"
     password1 = "PhbvdAZX5CTHjx@"
@@ -23,7 +23,7 @@ class Data:
     add_ref1 = "California"
 
     # details of user2 for registration
-    userEmail2 = "abc78956.123@gmail.com"
+    userEmail2 = "nelson78956.123@gmail.com"
     firstName2 = "M"
     lastName2 = "Nelson"
 
