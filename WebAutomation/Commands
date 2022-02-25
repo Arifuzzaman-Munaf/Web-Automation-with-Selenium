@@ -1,0 +1,14 @@
+#To install selenium
+pip install -U selenium
+
+
+# To install wedriver-manager
+pip install webdriver-manager
+
+# To install pytest
+pip install pytest
+
+# to Execute the automation
+pytest Tests/test_Page.py
+
+
