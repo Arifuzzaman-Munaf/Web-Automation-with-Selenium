@@ -6,7 +6,7 @@ from Pages.LoginPage import LoginPage
 from Tests.test_base import BaseTest
 
 
-class Test_Login(BaseTest):
+class Test_Page(BaseTest):
     def test_register1(self):
         self.login_page = LoginPage(self.driver)
         self.login_page.register(Data.userEmail1, Data.firstName1, Data.lastName1,
